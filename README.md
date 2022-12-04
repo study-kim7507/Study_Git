@@ -2,7 +2,7 @@
 지옥에서 온 문서 관리자 
 깃 & 깃허브 입문을 통해 깃허브 사용법을 연습합니다.
 
-![Git](./Image/images.jpg)
+![Git](./Images/images.jpg)
 
 여기에 원하는 내용을 입력하세요.
 
